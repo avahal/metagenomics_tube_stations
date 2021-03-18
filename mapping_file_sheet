@@ -1,0 +1,21 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	SampleType	DateOfCollection	Station	Zone	CollectedBy	Description
+# Team 14: Microbiome of overground and train stations								
+# You can insert as many comment lines as you like at the top of the file, just make sure they start with a hashtag								
+515rcbc132	TCGTTATTCAGT	N	oyster card touch screen	15/10/2018	Kings Cross/St. Pancras	1	Ava Halvai	1
+515rcbc133	GGATACTCGCAT	N	oyster card touch screen	15/10/2018	Kings Cross/St. Pancras	1	Ava Halvai	2
+515rcbc134	AATGTTCAACTT	N	oyster card touch screen	15/10/2018	Kings Cross/St. Pancras	1	Ava Halvai	3
+515rcbc135	AGCAGTGCGGTG	N	oyster card touch screen	15/10/2018	London City Airport DLR station	3	Alex Bentley	4
+515rcbc136	GCATATGCACTG	N	oyster card touch screen	15/10/2018	London City Airport DLR station	3	Alex Bentley	5
+515rcbc137	CCGGCGACAGAA	N	oyster card touch screen	15/10/2018	London City Airport DLR station	3	Alex Bentley	6
+515rcbc138	CCTCACTAGCGA	N	oyster card touch screen	15/10/2018	Harrow on the Hill	5	Arslan Hussaini	7
+515rcbc139	CTAATCAGAGTG	N	oyster card touch screen	15/10/2018	Harrow on the Hill	5	Arslan Hussaini	8
+515rcbc140	CTACTCCACGAG	N	oyster card touch screen	15/10/2018	Harrow on the Hill	5	Arslan Hussaini	9
+515rcbc141	TAAGGCATCGCT	N	oyster card touch screen	15/10/2018	Cannon Street	1	Nathaniel Kabiri	10
+515rcbc142	AGCGCGGCGAAT	N	oyster card touch screen	15/10/2018	Cannon Street	1	Nathaniel Kabiri	11
+515rcbc143	TAGCAGTTGCGT	N	oyster card touch screen	15/10/2018	Cannon Street	1	Nathaniel Kabiri	12
+515rcbc144	ACTCTGTAATTA	N	oyster card touch screen	15/10/2018	Cockfosters	5	Angus Reed	13
+515rcbc145	TCATGGCCTCCG	N	oyster card touch screen	15/10/2018	Cockfosters	5	Angus Reed	14
+515rcbc146	CAATCATAGGTG	N	oyster card touch screen	15/10/2018	Cockfosters	5	Angus Reed	15
+515rcbc147	GTTGGACGAAGG	N	oyster card touch screen	15/10/2018	Baker Street Station	1	Naukhez Sheikh	16
+515rcbc148	GTCACTCCGAAC	N	oyster card touch screen	15/10/2018	Baker Street Station	1	Naukhez Sheikh	17
+515rcbc149	CGTTCTGGTGGT	N	oyster card touch screen	15/10/2018	Baker Street Station	1	Naukhez Sheikh	18
